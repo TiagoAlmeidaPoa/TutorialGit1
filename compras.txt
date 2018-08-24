@@ -1,6 +1,12 @@
 carne 
+
 cerveja
+
 guarana
+
 arroz
+
 batata
+
 frango
+ frito
