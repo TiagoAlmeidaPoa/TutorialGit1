@@ -1,0 +1,5 @@
+carne 
+cerveja
+guarana
+arroz
+batata
