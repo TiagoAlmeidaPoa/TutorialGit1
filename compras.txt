@@ -3,3 +3,4 @@ cerveja
 guarana
 arroz
 batata
+frango
